@@ -23,5 +23,5 @@
 ## Como rodar o projeto
 Abra o terminal Git Bash no diretorio xampp/htdocs e cole o seguinte comando:
 ```
-git clone https://github.com/WesleyLima/20087584-5_WesleyLima.git
+git clone https://github.com/Whelan01/20087584-5_WesleyLima.git
 ```
